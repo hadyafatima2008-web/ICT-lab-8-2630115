@@ -1,0 +1,12 @@
+My First GitHub Project
+
+This is my first project using Git and GitHub.
+
+I am learning how to:
+1. Create files.
+2. Track changes using Git.
+3. Save changes with commits.
+4. Upload files to GitHub.
+5. Manage a repository.
+
+Git and GitHub help developers manage their projects efficiently.
