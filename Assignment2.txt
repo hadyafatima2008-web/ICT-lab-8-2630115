@@ -1,0 +1,15 @@
+ Introduction to Git and GitHub
+
+Name: Hadya fatima
+
+Roll Number: 2630125
+
+
+ What is Git?
+Git is a version control system used to track changes in files and manage projects.
+
+ What is GitHub?
+GitHub is an online platform where developers store, manage, and share their code.
+
+ Purpose of this Assignment
+The purpose of this assignment is to learn basic Git and GitHub commands and understand how to manage a repository.
