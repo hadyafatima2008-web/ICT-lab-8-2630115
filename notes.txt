@@ -1,0 +1,19 @@
+ My Git Notes
+
+1. Git is used to track changes in files.
+2. GitHub is used to store and share repositories online.
+3. A repository is a place where project files are stored.
+4. The staging area contains files ready to be committed.
+5. A commit saves changes in the repository.
+6. Push uploads local commits to GitHub.
+7. Pull downloads changes from a remote repository.
+
+ Important Git Commands
+
+- git init
+- git add
+- git commit
+- git push
+- git pull
+- git status
+- git log
