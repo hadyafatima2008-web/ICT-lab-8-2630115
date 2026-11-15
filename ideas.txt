@@ -1,0 +1,12 @@
+My Future Ideas
+
+1. Learn more Git commands.
+2. Understand how branches work.
+3. Practice creating and merging branches.
+4. Learn how to work with other developers.
+5. Improve my programming skills.
+6. Build more projects using 
+
+My Goal
+
+My goal is to become confident in using Git and GitHub for managing software projec
